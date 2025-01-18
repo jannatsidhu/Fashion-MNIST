@@ -1,4 +1,6 @@
-# Fashion-MNIST
+# Fashion MNIST Classification
+
+This project demonstrates **feature extraction** and **classification** using both traditional machine learning (ML) methods and neural networks (NNs) on a modified version of the Fashion MNIST dataset, available on Kaggle.
 
 Links to Kaggle Competition:
 <br>
